@@ -1,5 +1,5 @@
 # Xam.DownPicker
-Xamarin.iOS Bindings for DownPicker library [DownPicker Objective-C Library](https://github.com/Darkseal/DownPicker)
+Xamarin.iOS Bindings for [DownPicker Objective-C Library](https://github.com/Darkseal/DownPicker)
 
 ## Quickstart
 ```csharp
