@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Xam.DownPicker</id>
+    <version>0.1</version>
+    <title>DownPicker for Xamarin.iOS</title>
+    <authors>Clovis Nicolas</authors>
+    <owners>Clovis Nicolas</owners>
+    <projectUrl>https://github.com/clovisnicolas/Xam.DownPicker</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin.iOS binding for DownPicker Objective C Library</description>
+    <releaseNotes>First release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Xamarin, iOS, Binding, DownPicker, Picker</tags>
+  </metadata>
+  <files>
+    <file src="bin/Release/Xam.DownPicker.dll" target="lib/Xamarin.iOS10/Xam.DownPicker.dll" />
+  </files>
+</package>
