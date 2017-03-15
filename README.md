@@ -1,6 +1,11 @@
 # Xam.DownPicker
 Xamarin.iOS Bindings for [DownPicker Objective-C Library](https://github.com/Darkseal/DownPicker)
 
+# Install
+Available on NuGet
+
+[![NuGet](https://img.shields.io/nuget/v/Xam.DownPicker.svg?label=NuGet)](https://www.nuget.org/packages/Xam.DownPicker/)
+
 ## Quickstart
 ```csharp
 //Data
